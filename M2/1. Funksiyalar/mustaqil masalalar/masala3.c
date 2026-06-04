@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int juftYokiToq(int son){
+    if (son %2==0){
+        return 1;
+    }
+    else{
+        return 0;
+    }
+}
+
+int main(){
+    int a;
+
+    scanf("%d",&a);
+
+    printf("%d\n\n", juftYokiToq(a));
+}
