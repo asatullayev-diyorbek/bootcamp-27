@@ -1,3 +1,7 @@
 Vandam 34 3
 Abdulaziz 17 27
 Bilolxon 17 27
+
+Izoh: "%[^,]" formati — "vergulgacha bo'lgan hamma belgi" deb o'qiladi.
+Bu ismlarni vergulgacha o'qish uchun ishlatiladi, chunki oddiy "%s" bo'shliqda 
+to'xtaydi, vergulda emas.

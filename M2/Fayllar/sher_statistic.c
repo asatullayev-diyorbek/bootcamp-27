@@ -19,4 +19,6 @@ int main(){
     }
 
     printf("\n%d %d %d %d", katta_harflar, kichik_harflar, raqamlar, belgilar);
+
+    fclose(poem);
 }

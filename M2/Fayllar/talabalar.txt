@@ -1,0 +1,5 @@
+Toshmat,23,5
+Eshmat,18,4
+Abdulaziz,17,5
+Sotvoldihoji,17,60
+Nodirbek,20,100
