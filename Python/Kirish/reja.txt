@@ -1,0 +1,6 @@
+malumot turlari
+int
+float
+string
+complex
+
